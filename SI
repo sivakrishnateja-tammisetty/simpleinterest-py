@@ -1,0 +1,8 @@
+p=input("Enter p:")
+n=input("Enter n:")
+r=input("Enter r:")
+p=int(p)
+n=int(n)
+r=int(r)
+SI=(p*n*r)/100
+print("SIMPLE INTEREST :",SI)
